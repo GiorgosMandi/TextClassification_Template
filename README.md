@@ -1,4 +1,4 @@
-##Text Classification Template
+<h2>Text Classification Template</h2>
 
 This project is a template for Text Classification. It provides NLP techniques for text pre-processing, 
 several Classifiers, evaluation methods and many more functionalities.
