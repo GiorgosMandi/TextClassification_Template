@@ -30,7 +30,7 @@ In more detail
     (The three first techniques also calculate the confusion matrix and other metrics such as Accuracy, Recall, etc.)
   <br/>  
 
-**The Libraries required for the execution are**:  _pandas_, _numpy_, _sklearn_, _tensorflow(keras)_, _nltk_, _imblearn_, _pickle and matplotlib._
+**The required Libraries are**:  _pandas_, _numpy_, _sklearn_, _tensorflow(keras)_, _nltk_, _imblearn_, _pickle and matplotlib._
 
 **Execution:** python main-classification --clf <*CLF*> --method <*the selected method*> --train <*path to the training set*> --test <*path to the training set(OPTIONAL)*>
  
